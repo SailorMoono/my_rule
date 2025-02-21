@@ -135,6 +135,11 @@ DOMAIN,edge.api.brightcove.com
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN-SUFFIX,encoretvb.com
 
+# exchanges
+DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,bitget.com
+DOMAIN-SUFFIX,binance.com
+
 # FoxNow
 USER-AGENT,FOX%20NOW*
 DOMAIN-SUFFIX,fox.com
